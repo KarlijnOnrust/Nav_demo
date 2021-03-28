@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "847989534178",
+    "firebase_url": "https://newpcbuilder-98838.firebaseio.com",
+    "project_id": "newpcbuilder-98838",
+    "storage_bucket": "newpcbuilder-98838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847989534178:android:bbda1c08c553b99aa45dbb",
+        "android_client_info": {
+          "package_name": "com.example.newpcbuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847989534178-cp6hfme9a2qu8tjh0q70fc093bo7nisf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqayYzcKtVhXsIfmL3g7WralgFyCzclBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847989534178-cp6hfme9a2qu8tjh0q70fc093bo7nisf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ads.mediation:adcolony:4.1.4.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ae1329a11f3ddf2e74b58b0b1e02070/jetified-adcolony-4.1.4.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/90dff7e7f2aa8519100978db93e93b3c/jetified-adcolony-4.1.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ae1329a11f3ddf2e74b58b0b1e02070/jetified-adcolony-4.1.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ae1329a11f3ddf2e74b58b0b1e02070/jetified-adcolony-4.1.4.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ae1329a11f3ddf2e74b58b0b1e02070/jetified-adcolony-4.1.4.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.ads.mediation/adcolony/4.1.4.1/866367b65a78ad5d86ec7d6acd4af9e70465816/adcolony-4.1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

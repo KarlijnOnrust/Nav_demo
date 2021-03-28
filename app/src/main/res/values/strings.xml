@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">nav menu demo</string>
+    <string name="nav_header_title">Basic nav menu</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_text_1">\t\tnav1</string>
+    <string name="nav_text_2">\t\tnav2</string>
+    <string name="nav_text_3">\t\tnav3</string>
+    <string name="nav_text_4">nav4</string>
+
+    <!--  TODO: admob links  -->
+    <string name="add_unit_id">"ca-app-pub-3940256099942544/6300978111"</string>
+    <string name="AdMob_App_ID">"ca-app-pub-3940256099942544~3347511713"</string>
+
+    <string name="tab_text_1">nav item 1</string>
+    <string name="tab_text_2">nav item 2</string>
+    <string name="accordion_text">Accordion</string>
+
+    <string name="fragmenttext_1">Blue</string>
+
+    <string name="fragmenttext_2">Red</string>
+
+    <string name="fragmenttext_3">Green</string>
+
+    <string name="fragmenttext_4">White</string>
+
+
+</resources>
